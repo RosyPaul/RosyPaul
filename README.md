@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Rosy Paul
 
-<!--
-**RosyPaul/RosyPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate (CGPA: 9.05)  
+🤖 Aspiring ML Engineer | GenAI | MLOps Enthusiast  
+🚀 Building Production-Ready AI Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Build end-to-end ML systems
+- Develop RAG-based applications using LLMs
+- Deploy APIs using FastAPI & Docker
+- Work on NLP & Deep Learning models
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python  
+**ML/DL:** Scikit-Learn, TensorFlow, PyTorch  
+**GenAI:** LangChain, ChromaDB, HuggingFace  
+**Backend:** FastAPI, Flask  
+**DevOps:** Docker, Git  
+**Currently Learning:** MLOps & Cloud Deployment  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 MedAssist-RAG
+AI-powered medical assistant using Retrieval-Augmented Generation.
+
+### ⚙️ Insurance Prediction API
+Dockerized FastAPI application for ML model deployment.
+
+### 📄 AI Resume Matcher
+NLP-based system to match resumes with job descriptions.
+
+---
+
+## 📈 Current Focus
+Understanding how ML systems work in production —
+from training to deployment and monitoring.
+
+---
+
+## 📫 Let's Connect
+LinkedIn: (Add Link)
