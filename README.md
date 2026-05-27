@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rosy Paul
 
 🎓 B.Tech Graduate (CGPA: 9.05)  
-🤖 Aspiring ML Engineer | GenAI | MLOps Enthusiast  
+🤖 Aspiring ML Engineer | GenAI | MLOps Enthusiast  |Data Science
 🚀 Building Production-Ready AI Systems  
 
 ---
@@ -15,12 +15,11 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python  
-**ML/DL:** Scikit-Learn, TensorFlow, PyTorch  
-**GenAI:** LangChain, ChromaDB, HuggingFace  
+**Languages:** Python ,Sql
+**ML/DL:** Scikit-Learn, TensorFlow, PyTorch ,
+**GenAI:** LangChain, ChromaDB, HuggingFace  ,Langgraph, FAISS
 **Backend:** FastAPI, Flask  
-**DevOps:** Docker, Git  
-**Currently Learning:** MLOps & Cloud Deployment  
+**DevOps:** Docker, Git  ,MLflow,CICD ,DVC, Model Serving, AWS EC2,
 
 ---
 
