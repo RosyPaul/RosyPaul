@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rosy Paul
 
-🎓 B.Tech Graduate (CGPA: 9.05)  
+🎓 B.Tech Graduate (CGPA: 9.05)  , North Eastern Regional Institute of Science and Technology (NERIST), Arunachal Pradesh
 🤖 Aspiring ML Engineer | GenAI | MLOps Enthusiast  |Data Science
 🚀 Building Production-Ready AI Systems  
 
