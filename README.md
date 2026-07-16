@@ -43,4 +43,4 @@ from training to deployment and monitoring.
 ---
 
 ## 📫 Let's Connect
-LinkedIn: (Add Link)
+LinkedIn: https://www.linkedin.com/in/rosy-paul-b27a72279/
